@@ -58,9 +58,11 @@ If you would like to **list your validating node here** please make a pull reque
  Peer3: 
  NodeID: GDPJ4DPPFEIP2YTSQNOKT7NMLPKU2FFVOEIJMG36RCMBWBUR4GTXLL57
 
+
 ------
- Name: Donovan<br>
- Contact: donovanhide@gmail.com<br>
- Description: Another possibility for your list<br>
+ Name: nelisky<br>
+ Contact: nelisky.btc@gmail.com<br>
+ Description: <br>
  List of nodes:<br>
- GB6REF5GOGGSEHZ3L2YK6K4T4KX3YDMWHDCPMV7MZJDLHBDNZXEPRBGM
+ NodeID: GBGR22MRCIVW2UZHFXMY5UIBJGPYABPQXQ5GGMNCSUM2KHE3N6CNH6G5<br>
+ 
